@@ -4,6 +4,7 @@ import HW from './components/Hw';
 function App() {
   return (
     <>
+    <HW/>
     </>
   );
 }
